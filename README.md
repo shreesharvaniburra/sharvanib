@@ -16,6 +16,6 @@
 ![vrsec](https://www.credenc.com/images/colleges/velagapudi-ramakrishna-siddhartha-engineering-college-vrsec-vijayawada.jpg)
 
 * fruits
- * mango
- * banana
- * orenge 
+  * mango
+  * banana
+  * orenge 
