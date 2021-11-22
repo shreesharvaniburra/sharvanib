@@ -24,4 +24,8 @@
     2. potato
     3. cabbage
     4. carrot
+    
+Table 1 | Table 2
+--------|--------
+name    | rollno
    
